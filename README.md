@@ -2,7 +2,7 @@
 
 > Filter array values with glob, strings, array, function, regex.
 
-[![code climate][codeclimate-img]][codeclimate-url] [![standard code style][standard-img]][standard-url] [![travis build status][travis-img]][travis-url] [![coverage status][coveralls-img]][coveralls-url] [![dependency status][david-img]][david-url]
+[![code climate][codeclimate-img]][codeclimate-url] [![standard code style][standard-img]][standard-url] [![travis build status][travis-img]][travis-url] [![coverage status][coverage-img]][coverage-url] [![dependency status][david-img]][david-url]
 
 
 ## Install
@@ -40,6 +40,9 @@ But before doing anything, please read the [CONTRIBUTING.md](./CONTRIBUTING.md) 
 
 [codeclimate-url]: https://codeclimate.com/github/tunnckoCore/filter-arr
 [codeclimate-img]: https://img.shields.io/codeclimate/github/tunnckoCore/filter-arr.svg
+
+[coverage-url]: https://codeclimate.com/github/tunnckoCore/filter-arr
+[coverage-img]: https://img.shields.io/codeclimate/coverage/github/tunnckoCore/filter-arr.svg
 
 [travis-url]: https://travis-ci.org/tunnckoCore/filter-arr
 [travis-img]: https://img.shields.io/travis/tunnckoCore/filter-arr.svg
