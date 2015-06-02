@@ -16,5 +16,18 @@
   "devDependencies": {
     "assertit": "^0.1.0"
   },
-  "keywords": []
+  "keywords": [
+    "array",
+    "filter",
+    "function",
+    "glob",
+    "match",
+    "micro",
+    "micromatch",
+    "regex",
+    "regexp",
+    "string",
+    "utils",
+    "values"
+  ]
 }
