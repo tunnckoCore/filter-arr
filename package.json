@@ -10,8 +10,8 @@
     "test": "standard && node test.js"
   },
   "dependencies": {
-    "arr-filter": "^1.1.0",
-    "is-match": "^0.2.0"
+    "arr-filter": "~1.1.0",
+    "is-match": "~0.2.0"
   },
   "devDependencies": {
     "assertit": "^0.1.0"
