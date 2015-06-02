@@ -1,0 +1,20 @@
+{
+  "name": "filter-arr",
+  "version": "0.0.0",
+  "description": "Filter array values with glob, strings, array, function, regex.",
+  "repository": "tunnckoCore/filter-arr",
+  "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "dependencies": {
+    "arr-filter": "^1.1.0",
+    "is-match": "^0.2.0"
+  },
+  "devDependencies": {
+    "assertit": "^0.1.0"
+  },
+  "keywords": []
+}
